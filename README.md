@@ -35,9 +35,8 @@
 
 <br clear="both">
 
-## 🐍 Snake animation
+<img src="https://raw.githubusercontent.com/godstark82/godstark82/output/snake.svg" alt="Snake animation" />
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/bittusharma3/bittusharma3/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
